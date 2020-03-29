@@ -35,8 +35,6 @@ Personal information items to be collected by the Company are as follows:
 The Company may collect the information directly provided by the users.
 ```
 Name, email address, ID, national information, encoded identification information (CI), identification information of overlapped membership (DI)
-
-
 ```
 • Information collected while the users use services
 Besides of information directly provided by the users, the Company may collect information in
@@ -60,7 +58,6 @@ The Company uses the collected information of users for the following purposes:
 ```
 • Member management and identification 
 • Improvement of existing services and development of new services
-
 ```
 The Company agrees that it will obtain consent from the users, if the Company desires to use
 the information other than those expressly stated in this Policy.
@@ -106,7 +103,6 @@ networks and these networks use the information of users' visit
 
 ∘ provide the information of users' visit to ad agencies so that they can suggest an
 ad which may attract the interest of the users
-
 ```
 
 The users have an option for cookie installation. So, they may either allow all cookies by setting
@@ -153,7 +149,6 @@ leakage or damage of users' personal information by hacking or computer virus
 • Install and operate access control system
 
 • Take measures to prevent forging or alteration of access record
-
 ```
 
 
