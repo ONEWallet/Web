@@ -4,10 +4,21 @@ title: Changelog
 include_in_header: true
 ---
 
+
 # Changelog   
 
 
+
 ### `Latest`
+# **Version 1.4.8**
+
+#### What's New
+- BCBP (bar-coded boarding pass) Support
+
+<br>
+
+
+
 # **Version 1.4.7**
 
 #### What's New
@@ -16,6 +27,8 @@ include_in_header: true
 - Minor design fixes
 - Language translation updates (Thank you. Maximilian von Lindern)  
 (Translation support: [https://poeditor.com/join/project/XH0qbMVwFE](https://poeditor.com/join/project/XH0qbMVwFE))
+
+
 
 <br>
 
