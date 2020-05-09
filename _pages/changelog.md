@@ -4,9 +4,7 @@ title: Changelog
 include_in_header: true
 ---
 
-
 # Changelog   
-
 
 
 ### `Latest`
@@ -18,7 +16,6 @@ include_in_header: true
 <br>
 
 
-
 # **Version 1.4.7**
 
 #### What's New
@@ -27,7 +24,6 @@ include_in_header: true
 - Minor design fixes
 - Language translation updates (Thank you. Maximilian von Lindern)  
 (Translation support: [https://poeditor.com/join/project/XH0qbMVwFE](https://poeditor.com/join/project/XH0qbMVwFE))
-
 
 
 <br>
