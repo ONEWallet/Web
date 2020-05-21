@@ -8,6 +8,13 @@ include_in_header: true
 
 
 ### `Latest`
+# **Version 1.5.1**
+
+#### What's New
+- Offline Mode Support
+
+<br>
+
 # **Version 1.4.8**
 
 #### What's New
