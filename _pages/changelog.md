@@ -6,6 +6,15 @@ include_in_header: true
 
 # Changelog   
 
+### `Latest`
+# **Version 1.5.4**
+
+#### What's New
+- When searching for a logo image, you can also call it from the gallery.
+- Minor UI changes
+
+<br>
+
 
 ### `Latest`
 # **Version 1.5.1**
