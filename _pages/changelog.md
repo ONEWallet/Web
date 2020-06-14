@@ -7,6 +7,14 @@ include_in_header: true
 # Changelog   
 
 ### `Latest`
+# **Version 1.5.5**
+
+#### What's New
+- Notification area card shortcut function added
+
+
+<br>
+
 # **Version 1.5.4**
 
 #### What's New
