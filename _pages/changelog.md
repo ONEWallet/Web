@@ -7,6 +7,18 @@ include_in_header: true
 # Changelog   
 
 ### `Latest`
+
+# **Version 1.6.1**
+
+#### What's New
+- Supports save 2 original images
+- Change from the original image local storage method to the server upload method
+- Support zoom view of logo image
+- Minor UI changes
+
+<br>
+
+
 # **Version 1.5.5**
 
 #### What's New
