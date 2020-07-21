@@ -11,9 +11,9 @@ include_in_header: true
 # **Version 1.6.5**
 
 #### What's New
--Display category count and save selected category
--Provides some premium features for free.(App Widget, Import pkpass)
--Fixed image import problem on some devices
+- Display category count and save selected category
+- Provides some premium features for free.(App Widget, Import pkpass)
+- Fixed image import problem on some devices
 
 <br>
 
