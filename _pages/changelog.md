@@ -8,6 +8,16 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 1.6.5**
+
+#### What's New
+-Display category count and save selected category
+-Provides some premium features for free.(App Widget, Import pkpass)
+-Fixed image import problem on some devices
+
+<br>
+
+
 # **Version 1.6.1**
 
 #### What's New
