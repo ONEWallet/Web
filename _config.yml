@@ -9,7 +9,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 presskit_download_link                    : #https://play.google.com/store/apps/details?id=com.kmshack.onewallet                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : http://onewallet.kmshack.kr/assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : https://app.onewallet.kr/assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ONE Wallet                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Boarding Pass, Membership, Coupon, Ticket                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : ONE Wallet that can manage Barcode/QRcode in one app in one integrated way!
